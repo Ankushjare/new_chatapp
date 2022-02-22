@@ -106,7 +106,7 @@ DATABASES = {
         'NAME': 'chatapp',
         'USER': 'chatapp',
         'PASSWORD': 'chatapp123',
-        'HOST': 'demo-rds-tf.cva4hwe33v9l.us-east-2.rds.amazonaws.com',
+        'HOST': 'demo-web-rds.crxeossr1vtj.us-east-2.rds.amazonaws.com',
         'PORT': '3306',
     }
 }
